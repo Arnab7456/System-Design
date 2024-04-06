@@ -1,0 +1,5 @@
+channels, I follow to prepare my system design interview rounds
+
+Arpit Bhayani = https://www.youtube.com/playlist?list=PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst
+Gaurav Sen = https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+take you Forward, system design = https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes

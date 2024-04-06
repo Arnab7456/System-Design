@@ -1,0 +1,6 @@
+1. Database Scaling 
+2. Horizontal Scaling
+3. vertical Scaling
+4. Sharding
+5. Partitioning
+6. message Queue
